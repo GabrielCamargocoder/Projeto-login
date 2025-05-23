@@ -46,6 +46,7 @@ section#login > div#imagem{
   height: 200px;
   background-position: center center;
   background-size: cover;
+  display: block;
 
 }
 
